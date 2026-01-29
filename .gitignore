@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.pt
+data/
+node_modules/
+.venv/
+
